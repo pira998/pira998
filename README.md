@@ -1,5 +1,5 @@
 ### Hi there I am Piraveen 👋
-[![Header](https://raw.githubusercontent.com/pira998/pira998/WhatsApp_Image_2021-10-01_at_9.38.59_AM-removebg.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/pira998/pira998/pira998/master/images/praveen.png "Header")](https://some-url.dev/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pira998&show_icons=true&theme=ayu-mirage)](https://github.com/pira998/github-readme-stats)
 </br>
