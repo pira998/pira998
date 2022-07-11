@@ -15,4 +15,4 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pira998&theme=dark" alt="pira998" /></p>
 
-![alt](https://github.com/pira998/pira998/blob/b1491847327cef732df52a440861be58fb2a50a1/profile-3d-contrib/profile-night-rainbow.svg)
+![alt](./profile-3d-contrib/profile-night-rainbow.svg)
