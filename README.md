@@ -2,10 +2,15 @@
 #### A passionate Computer Science and Engineering Undergraduate | Machine learning enthusiastic
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pira998&label=Profile%20views&color=0e75b6&style=flat" alt="pira998" /> </p>
 
-- 🔭 I’m currently working on [Alternative Credit Scoring App](https://github.com/h2oai/q-network-credit/tree/sp/dev/q-network-credit-v2) 
-- 🌱 I’m currently learning Pytorch, Computer Vision 
-- 👯 I’m looking to collaborate on H2oai [Driverless AI](https://github.com/h2oai/h2oai) 
-- 💬 Ask me about Deeplearning, ML, react, react-native 
+- 🔭 Currently doing: Generalising Neural Radiance Field using meta learning
+- 👯 Currently Being collaborater on H2Oai [Driverless AI](https://h2o.ai/platform/ai-cloud/make/h2o-driverless-ai/) 
+- 🌱 Previously done at H2O.ai:
+  - Developed an alternative credit scoring app
+  - Created a transaction abuse detection app
+  - Implemented an ATM cash optimization solution
+  - Created an AI Art virtual gallery
+  - Created Notebook to web app converter
+- 💬 Ask me about Deeplearning,Computer Vision, DriverlessAI(H2OAI), Wave(H2OAI), ML, react, react-native 
 - 📫 How to reach me: piraveen.sivakumar@h2o.ai 
 
 
