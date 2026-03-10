@@ -88,9 +88,9 @@ I hold a **BSc in Computer Science & Engineering** from the **University of Mora
 
 ### 📫 Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/piraveen-sivakumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piraveen-s/)
 [![Email](https://img.shields.io/badge/Email-piraveen.sivakumar@h2o.ai-2c5364?style=flat&logo=gmail&logoColor=white)](mailto:piraveen.sivakumar@h2o.ai)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://substack.com)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://piraveensivakumar.substack.com/)
 
 ---
 
